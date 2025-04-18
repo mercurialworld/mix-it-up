@@ -1,0 +1,7 @@
+[project]
+name = "mix-it-up"
+version = "0.1.0"
+description = "Various scripts for the Mix It Up bot"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
