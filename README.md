@@ -1,7 +1,15 @@
 # Mix it Up Scripts
 
-ERROR: Python executable path must be set under Settings -> Commands to run Python scripts
+> [!CAUTION]
+> ERROR: Python executable path must be set under Settings ⇾ Commands to run Python scripts
 
-My personal scripts for the [Mix it Up](https://mixitupapp.com/) streaming bot software.
+My personal scripts for the [Mix it Up](https://mixitupapp.com/) streaming bot software. 
 
-I might have accidentally typed `uv init` to start this project up, but ran `rye sync` instead.
+If you're a Beat Saber player, you might mainly be here for the `requests` folder. This queue system uses TheBlackParrot's [DumbRequestManager](https://github.com/TheBlackParrot/DumbRequestManager). ~~haha get it? i'm working with DRM~~
+
+# Queue Setup
+
+> [!IMPORTANT]
+> **Please install [Rye](https://rye.astral.sh) before setting this up!**
+
+TODO: this
